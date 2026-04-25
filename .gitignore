@@ -1,0 +1,4 @@
+# 你的两个项目目录分别限制
+# 1. normal_dialog 不上传 .qtcreator 文件
+.qtcreator/
+build/
