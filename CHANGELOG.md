@@ -1,4 +1,8 @@
 # 记录
+* 向导框
+# 2026-04-30
+* 电子项目-QSS样式和主窗口
+* QTreeWidget\QListWidget
 * 实现自定义的delegate
 # 2026-04-29
 * QT item selection model
