@@ -19,6 +19,7 @@ public:
 
 private:
     Ui::MainWindow *ui;
+    QWidget* _pro_tree;
 
 private slots:
     void SlotCreatrPro(bool);

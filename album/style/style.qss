@@ -35,7 +35,7 @@ ProTree {
     padding-right: 10px;
 }
 
-QLabel#label_pro {
+QLabel#pro_lab {
     color: rgb(231,231,231);
     border-color: #9F9F9F;
     border-style: dotted;
@@ -57,7 +57,7 @@ QWizard {
     background-color:rgb(46,47,48);
 }
 
-QWizard QLabel#tips {
+QWizard QLabel#tips_lab {
     color: red;
 }
 

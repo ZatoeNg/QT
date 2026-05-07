@@ -14,12 +14,12 @@ int main(int argc, char *argv[])
         qss.close();
     }else
     {
-        qDebug("Open qss filed!");
+        qDebug() << "Open qss failed! Error:" << qss.errorString();
         return 0;
     }
 
     MainWindow w;
     w.setWindowTitle("album");
     w.showMaximized();
-    return QCoreApplication::exec();
+    return a.exec();
 }
